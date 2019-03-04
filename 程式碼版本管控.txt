@@ -1,0 +1,6 @@
+angularjs 1.2.25ª©
+automap v3.2.1
+bootstrap v3.4.1
+bootswatch v3.4.1
+Awesome 4.2.0
+angular-ui-bootstrap Version: 0.11.2
