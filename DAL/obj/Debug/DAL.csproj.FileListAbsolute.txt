@@ -1,0 +1,12 @@
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\DAL.dll.config
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\DAL.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\DAL.pdb
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\Domain.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\EntityFramework.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\Domain.pdb
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\EntityFramework.xml
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\obj\Debug\DAL.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\obj\Debug\DAL.pdb
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\DAL\bin\Debug\EntityFramework.SqlServer.xml
