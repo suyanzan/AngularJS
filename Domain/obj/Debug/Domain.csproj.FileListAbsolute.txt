@@ -1,0 +1,9 @@
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\bin\Debug\Domain.dll.config
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\bin\Debug\Domain.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\bin\Debug\Domain.pdb
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\bin\Debug\EntityFramework.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\bin\Debug\EntityFramework.SqlServer.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\bin\Debug\EntityFramework.xml
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\bin\Debug\EntityFramework.SqlServer.xml
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\obj\Debug\Domain.dll
+H:\WEB\Net相關文件\prg\Customer_Web_Mvc_AngularJS\WebUI\Domain\obj\Debug\Domain.pdb
